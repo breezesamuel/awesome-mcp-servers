@@ -1,0 +1,8 @@
+{
+  "name": "AutoTasker Hub",
+  "url": "https://github.com/breezesamuel/autotasker-hub-aevum",
+  "category": "cloud-data",
+  "transport": "http",
+  "description": "Per-call China trending social data (Weibo, Douban, Zhihu) paid via x402 USDC on Base; 84 tools, no account or API key. · [Website](https://autotasker.highkingflower.com)",
+  "endpoint": "https://autotasker.highkingflower.com/mcp"
+}
